@@ -1,0 +1,5 @@
+include SPEC.md AGENTS.md README.md
+recursive-include tests *.py *.csv *.md
+recursive-exclude * logs/* *.jsonl *.pyc
+prune .venv
+prune .wheel-check

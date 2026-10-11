@@ -1,0 +1,3 @@
+order_id,timestamp,currency_pair,side,quantity,limit_price
+BUY-001,2026-01-01T09:00:00Z,EURUSD,BUY,100000,1.1000
+SELL-001,2026-01-01T09:00:00Z,USDJPY,SELL,100000,150
