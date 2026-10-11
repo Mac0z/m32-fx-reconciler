@@ -1,0 +1,12 @@
+.venv/
+.wheel-check/
+build/
+dist/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+logs/
+*.jsonl
+.pytest-tmp/
+.build-tmp/
